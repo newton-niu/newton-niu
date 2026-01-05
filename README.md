@@ -4,5 +4,5 @@ I'm interested in brain-inspired computing, machine learning, deep learning, neu
 and building research-driven systems and products.
 
 Selected Projects:
-- easyCML – neuromorphic learning and cognitive map modeling
+- easycml – neuromorphic learning and cognitive map modeling
 - ToneFinder – multi-rate audio visualization and DSP tools
