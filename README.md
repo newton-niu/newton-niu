@@ -1,4 +1,4 @@
-Hi, I'm Newton.
+Hi, I'm Newton Niu.
 
 I'm interested in brain-inspired computing, machine learning, deep learning, neuroscience,
 and building research-driven systems and products.
