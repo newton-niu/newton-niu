@@ -4,6 +4,10 @@ I’m **Newton Niu**, a student interested in **artificial intelligence**,
 **brain-inspired computing**, **machine learning**, **deep learning**, **neuroscience**,  
 and **signal processing**, with a focus on building **research-driven systems** and **real-world products**.
 
+
+I build research-driven AI systems that connect neuroscience, signal
+processing, and real-world applications.
+
 **GitHub username:** `newton-niu`  
 **GitHub profile:** https://github.com/newton-niu
 
@@ -11,23 +15,33 @@ and **signal processing**, with a focus on building **research-driven systems** 
 
 ## Selected Projects
 
-- **easycml**  
+- **easycml**
+
+  🧠 Neuromorphic Computing \| 🔬 Research Project
+
   A tiny, student-friendly framework for experimenting with  
   **Cognitive Map Learners (CML)** on graph-structured data.
 
   GitHub: https://github.com/newton-niu/easycml
 
 
-- **ToneFinder**  
+- **ToneFinder**
+
+  🎧 Audio Intelligence \| 🔬 Research Project
+
   Multi-rate **audio visualization** and **DSP tools** for exploring  
   music and mechanical sound structure, frequency analysis,  
   and time–frequency representations.
 
   GitHub: https://github.com/newton-niu/tonefinder
 
+
+---
+
 ## Published Applications
 
 - **MelodyMemo — AI Memory & Music Companion**
+
   AI-powered iOS app supporting memory recall and emotional well-being for seniors.
 
   App Store:
@@ -35,12 +49,14 @@ and **signal processing**, with a focus on building **research-driven systems** 
 
 
 - **ToneScope**
+
   Audio visualization and learning tool for spectrogram exploration.
 
   App Store:
   https://apps.apple.com/us/app/tonescope/id6757265327
 
 
+---
 
 ## Research Interests
   - Machine learning
