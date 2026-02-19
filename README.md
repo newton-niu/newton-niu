@@ -42,17 +42,21 @@ processing, and real-world applications.
 
 - **MelodyMemo — AI Memory & Music Companion**
 
+  📱 Production iOS App \| 🧠 AI + Cognitive Health
+
   AI-powered iOS app supporting memory recall and emotional well-being for seniors.
 
-  App Store:
+  App Store:\
   https://apps.apple.com/us/app/melody-memo-senior-companion/id6754819494
 
 
 - **ToneScope**
 
+  📱 Production iOS App \| 🎧 Audio Visualization & Learning
+
   Audio visualization and learning tool for spectrogram exploration.
 
-  App Store:
+  App Store:\
   https://apps.apple.com/us/app/tonescope/id6757265327
 
 
