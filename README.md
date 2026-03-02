@@ -38,6 +38,19 @@ processing, and real-world applications.
 
 ---
 
+## Publications
+
+- **MelodyMemo — An Emotion-Aware Memory-Music Modeling and Recommendation System for Older Adults**
+
+  Research Paper | CSEF 2026
+
+  Integrates transformer-based emotion extraction with hybrid music recommendation for older adults.
+
+  [Download / View PDF](publications/2026_MelodyMemo_CSEF_Paper.pdf)
+
+
+---
+
 ## Published Applications
 
 - **MelodyMemo — AI Memory & Music Companion**
