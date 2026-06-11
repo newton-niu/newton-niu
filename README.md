@@ -25,15 +25,7 @@ processing, and real-world applications.
   GitHub: https://github.com/newton-niu/easycml
 
 
-- **ToneFinder**
 
-  🎧 Audio Intelligence \| 🔬 Research Project
-
-  Multi-rate **audio visualization** and **DSP tools** for exploring  
-  music and mechanical sound structure, frequency analysis,  
-  and time–frequency representations.
-
-  GitHub: https://github.com/newton-niu/tonefinder
 
 
 ---
