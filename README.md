@@ -1,15 +1,36 @@
 # Newton Niu
 
-I’m **Newton Niu**, a student interested in **artificial intelligence**,  
-**brain-inspired computing**, **machine learning**, **deep learning**, **neuroscience**,  
-and **signal processing**, with a focus on building **research-driven systems** and **real-world products**.
+**Student Researcher**
 
-
-I build research-driven AI systems that connect neuroscience, signal
-processing, and real-world applications.
+Cognitive Science • Artificial Intelligence • Human-Centered Computing
 
 **GitHub username:** `newton-niu`  
 **GitHub profile:** https://github.com/newton-niu
+
+---
+
+## Publications
+
+- **Emotion-Preserving Music Recommendation from Autobiographical Narratives for Older Adults**
+
+  Research Paper | IEEE 14th International Conference on Healthcare Informatics (ICHI) 2026\
+  Young Scholar Symposium — June 1–3, 2026, Minneapolis, MN
+
+  A two-module framework (MelodyMemo) that extracts emotions from autobiographical stories
+  with a pretrained transformer and recommends emotionally aligned music using a hybrid algorithm.
+
+  [Paper (PDF)](publications/2026_ICHI/NewtonNiu_ICHI2026.pdf) \|
+  [Presentation (PDF)](publications/2026_ICHI/YS_310_Niu_presentation.pdf)
+
+
+- **MelodyMemo — An Emotion-Aware Memory-Music Modeling and Recommendation System for Older Adults**
+
+  Research Poster | Connecticut Science & Engineering Fair (CSEF) 2026
+
+  Integrates transformer-based emotion extraction with hybrid music recommendation for older adults.
+
+  [Poster (PDF)](publications/2026_CSEF/Niu_MelodyMemo_Poster.pdf)
+
 
 ---
 
@@ -17,28 +38,13 @@ processing, and real-world applications.
 
 - **easycml**
 
-  🧠 Neuromorphic Computing \| 🔬 Research Project
+  🧠 Brain-Inspired Cognition \| 🔬 Research Project
 
   A tiny, student-friendly framework for experimenting with  
-  **Cognitive Map Learners (CML)** on graph-structured data.
+  **Cognitive Map Learners (CML)** on graph-structured data —
+  models inspired by how the brain builds internal maps of relational structure.
 
   GitHub: https://github.com/newton-niu/easycml
-
-
-
-
-
----
-
-## Publications
-
-- **MelodyMemo — An Emotion-Aware Memory-Music Modeling and Recommendation System for Older Adults**
-
-  Research Paper | CSEF 2026
-
-  Integrates transformer-based emotion extraction with hybrid music recommendation for older adults.
-
-  [Download / View PDF](publications/2026_MelodyMemo_CSEF_Paper.pdf)
 
 
 ---
@@ -47,7 +53,7 @@ processing, and real-world applications.
 
 - **MelodyMemo — AI Memory & Music Companion**
 
-  📱 Production iOS App \| 🧠 AI + Cognitive Health
+  📱 Production iOS App \| 🧠 Memory & Emotion
 
   AI-powered iOS app supporting memory recall and emotional well-being for seniors.
 
@@ -57,7 +63,7 @@ processing, and real-world applications.
 
 - **ToneScope**
 
-  📱 Production iOS App \| 🎧 Audio Visualization & Learning
+  📱 Production iOS App \| 🎧 Auditory Perception & Learning
 
   Audio visualization and learning tool for spectrogram exploration.
 
@@ -68,8 +74,10 @@ processing, and real-world applications.
 ---
 
 ## Research Interests
+  - Cognitive Science
+  - Human-AI Interaction
   - Machine learning
-  - Neuromorphic computing
+  - Neuroscience
   - Brain-inspired learning systems
-  - Audio intelligence & signal processing
+  - Information Visualization
   - AI systems for health and cognition
